@@ -1,19 +1,20 @@
 ---
-title: River Ray
+title: River(雷圳鹏)
 description: River Ray's Portfolio
 image: https://leizhenpeng.com/og.png
 plum: true
 ---
 
-Hey, I am River Ray, a fanatical open sourceror.
+Hey, I am River, a fanatical open sourceror.
 
-Working at [<span i-simple-icons-nuxtdotjs /> NuxtLabs](https://nuxtlabs.com/).<br>
-Creator of [Vitest](https://github.com/vitest-dev/vitest), [Slidev](https://github.com/slidevjs/slidev), [VueUse](https://github.com/vueuse/vueuse), [UnoCSS](https://github.com/antfu/unocss), [Elk](https://github.com/elk-zone/elk), [Type Challenges](https://github.com/type-challenges/type-challenges) and [others](/projects).<br>
-Core team member of [Vue](https://vuejs.org/), [Nuxt](http://nuxtjs.org/) and [Vite](http://vitejs.dev/).<br>
+Working at [<span i-simple-icons-github /> ConnectAI](https://github.com/ConnectAI-E).<br>
+Creator of [feishu-openai](https://github.com/ConnectAI-E/feishu-openai), [gitmaya](https://github.com/ConnectAI-E/GitMaya), [others](/projects).<br>
 
-Dreaming up ideas and making them come true is where my passion lies. You can find my [full projects list here](/projects). I also do some generative-art, compform, interactivity experiments on [100.leizhenpeng.com](https://100.leizhenpeng.com/).
+I wanna make people's lives better, and I've chosen coding as my superhero cape. Because let's be real, saving the world is just more fun with a keyboard and some epic code, right?
 
-Outside of programming, I enjoy doing photography and traveling. Some of my photos can be found on [Instagram](https://www.instagram.com/antfu7). If you happen to be in the same city I live (currently in Paris), maybe we can hang out and take some photos or code together.
+Don't miss the show! Feast your eyes on the masterpiece list of [all my projects right here](/projects).
+
+Outside of programming, I enjoy reading. Some of my reading-share can be found on [Douban](https://book.douban.com/people/151095889/collect). If you happen to be in the same city I live (currently in wuhan), maybe we can hang out or read together.
 
 <div flex-auto />
 
@@ -22,15 +23,9 @@ Outside of programming, I enjoy doing photography and traveling. Some of my phot
 Find me on
 
 <p flex="~ gap-3 wrap" class="mt--2!">
-  <a href="https://github.com/antfu" target="_blank"><span op75 i-simple-icons-github /> GitHub</a>
-  <a href="https://elk.zone/m.webtoo.ls/@antfu" target="_blank"><span op75 i-simple-icons-mastodon/> Mastodon</a>
-  <a href="https://www.twitter.com/antfu7" target="_blank"><span op75 i-ri-twitter-x-fill /> Twitter</a>
-  <a href="https://chat.leizhenpeng.com" target="_blank"><span op75 i-simple-icons-discord /> Discord Server</a>
-  <a href="https://www.youtube.com/anthonyfu7" target="_blank"><span op75 i-simple-icons-youtube /> YouTube</a>
-  <a href="https://www.instagram.com/antfu7" target="_blank"><span op75 i-simple-icons-instagram /> Instagram</a>
-  <a href="https://space.bilibili.com/668380" target="_blank"><span op75 i-simple-icons-bilibili /> 哔哩哔哩</a>
-  <a href="https://www.zhihu.com/people/antfu" target="_blank"><span op75 i-simple-icons-zhihu /> 知乎</a>
-  <a href="https://weibo.com/u/7485197193" target="_blank"><span op75 i-simple-icons-sinaweibo /> 微博</a>
+  <a href="https://github.com/leizhenpeng" target="_blank"><span op75 i-simple-icons-github /> GitHub</a>
+  <a href="https://www.twitter.com/zhenpenglei" target="_blank"><span op75 i-ri-twitter-x-fill /> Twitter</a>
+  <a href="https://space.bilibili.com/66891783" target="_blank"><span op75 i-simple-icons-bilibili /> 哔哩哔哩</a>
+  <a href="https://book.douban.com/people/151095889/collect" target="_blank"><span op75 i-simple-icons-douban /> 豆瓣读书</a>
 </p>
 
-If you enjoy my works, consider sponsoring me on [<span i-carbon-favorite /> GitHub Sponsor](https://github.com/sponsors/antfu) or [<span i-carbon-lightning /> 爱发电](https://afdian.net/a/antfu) to keep them sustainable.

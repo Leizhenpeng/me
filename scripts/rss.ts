@@ -30,7 +30,7 @@ async function buildBlogRSS() {
     description: 'River Ray\' Blog',
     id: 'https://leizhenpeng.com/',
     link: 'https://leizhenpeng.com/',
-    copyright: 'CC BY-NC-SA 4.0 2021 © River Ray',
+    copyright: 'CC BY-NC-SA 4.0 2024 © River Ray',
     feedLinks: {
       json: 'https://leizhenpeng.com/feed.json',
       atom: 'https://leizhenpeng.com/feed.atom',
