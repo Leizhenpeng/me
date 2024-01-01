@@ -9,7 +9,7 @@ recording: true
 duration: 3min
 ---
 
-> Slides: [PDF](https://antfu.me/talks/2022-01-26) | [SPA](https://talks.antfu.me/2022/vue-nation)
+> Slides: [PDF](https://leizhenpeng.com/talks/2022-01-26) | [SPA](https://talks.leizhenpeng.com/2022/vue-nation)
 >
 > Recording: [YouTube](https://www.youtube.com/watch?v=CW9uTys0li0)
 >

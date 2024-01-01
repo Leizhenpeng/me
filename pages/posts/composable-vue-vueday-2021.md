@@ -14,7 +14,7 @@ duration: 30min
 
 > This is the transcript of my talk **Composable Vue** at [VueDay 2021](https://2021.vueday.it/)
 >
-> Slides: [PDF](https://antfu.me/talks/2021-04-29) | [SPA](https://talks.antfu.me/2021/composable-vue)
+> Slides: [PDF](https://leizhenpeng.com/talks/2021-04-29) | [SPA](https://talks.leizhenpeng.com/2021/composable-vue)
 >
 > Recording: [YouTube](https://youtu.be/IMJjP6edHd0)
 >

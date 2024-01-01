@@ -1,7 +1,7 @@
 ---
 title: 和 Anthony Fu 聊聊天！
 display: 聊聊天！
-image: https://antfu.me/og-chat.png
+image: https://leizhenpeng.com/og-chat.png
 ---
 
 [English](/chat)
@@ -18,7 +18,7 @@ image: https://antfu.me/og-chat.png
 
 ### 一对一开源咨询
 
-有些问题可能需要更长的时间来讨论。如果有需要，我可以想办法空出一个小时和你进行更加深入的讨论。这会是我的 [工作坊一对一开源咨询](https://workshop.antfu.me/zh/one-to-one/0) 的常驻版本。
+有些问题可能需要更长的时间来讨论。如果有需要，我可以想办法空出一个小时和你进行更加深入的讨论。这会是我的 [工作坊一对一开源咨询](https://workshop.leizhenpeng.com/zh/one-to-one/0) 的常驻版本。
 
 <CalCom link="antfu7/consult" title="预约咨询" />
 

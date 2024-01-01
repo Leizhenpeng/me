@@ -15,6 +15,6 @@ While I was browsing Gridsome's starter templates, I found a great website [Fore
 
 As for the blog, I am likely to do some bilingual stuff in the future. Some posts will be written in English, some might be in Chinese. A switch button will be shown then. Also planned to post my photos in this site, which I would need to implement the gallery page for it.
 
-The site is still WIP, if you have any thoughts or suggestions, please tell me via [email](mailto:hi@antfu.me) or on [Twitter](https://twitter.com/antfu7). Thanks!
+The site is still WIP, if you have any thoughts or suggestions, please tell me via [email](mailto:hi@leizhenpeng.com) or on [Twitter](https://twitter.com/antfu7). Thanks!
 
 :)

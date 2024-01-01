@@ -11,7 +11,7 @@ duration: 25min
 >
 > This is the transcript of my talk at BinFE 2020
 >
-> Slides: [中文 ver.](https://antfu.me/talks/2020-09-26) | [English ver.](https://antfu.me/talks/2020-09-26/en)
+> Slides: [中文 ver.](https://leizhenpeng.com/talks/2020-09-26) | [English ver.](https://leizhenpeng.com/talks/2020-09-26/en)
 
 Hello 大家好，非常感谢丁香园这次的邀请，也非常荣幸能够参与这次的分享。我是第一次做这样的分享，不足之处还请多多指教。
 
@@ -21,7 +21,7 @@ Hello 大家好，非常感谢丁香园这次的邀请，也非常荣幸能够�
 
 - GitHub [@antfu](https://github.com/antfu)
 - Twitter [@antfu7](https://twitter.com/antfu7)
-- Blog [antfu.me](https://antfu.me)
+- Blog [leizhenpeng.com](https://leizhenpeng.com)
 
 ### 介绍
 
@@ -119,7 +119,7 @@ function computed(getter) {
 }
 ```
 
-`computed` 接受一个 getter 函数，这个函数我们把它直接传给 `effect`，`effect`会在先执行一次进行依赖收集，在收集完了之后，如果里面其中的依赖发生了变动，他就会触发这个 `scheduler` 将 `dirty` 设置为 `true`。在最后我们在对 `computed` 进行求值的时候，如果 `dirty` 为 `true`，我们就会重新进行一次运算得到新的 `value` 后再把 `value` 传出去。在第二次调用时，如果里面的依赖没有更新，我们就可以直接用上一次计算的结果，这件可以避免掉多余重复的计算。这里有一些 [延伸阅读](https://antfu.me/posts/watch-with-reactivity/)，大家如果有兴趣去了解一些比较深入的原理的话也可以去看一看。
+`computed` 接受一个 getter 函数，这个函数我们把它直接传给 `effect`，`effect`会在先执行一次进行依赖收集，在收集完了之后，如果里面其中的依赖发生了变动，他就会触发这个 `scheduler` 将 `dirty` 设置为 `true`。在最后我们在对 `computed` 进行求值的时候，如果 `dirty` 为 `true`，我们就会重新进行一次运算得到新的 `value` 后再把 `value` 传出去。在第二次调用时，如果里面的依赖没有更新，我们就可以直接用上一次计算的结果，这件可以避免掉多余重复的计算。这里有一些 [延伸阅读](https://leizhenpeng.com/posts/watch-with-reactivity/)，大家如果有兴趣去了解一些比较深入的原理的话也可以去看一看。
 
 ### 组合式 Composition API
 
@@ -455,4 +455,4 @@ data.value.hello = 'world'
 
 这些就是我现在正在做的一些探索，我觉得 Vue 的响应式系统非常的有趣，也相信未来还会有更多的的可能性和应用场景，希望可以和大家一起进行进一步的探索，找到一些有趣的使用方式和最佳实践。
 
-我的分享就到这里，如果有任何问题欢迎通过 hi@antfu.me 给我发送邮件。谢谢大家.
+我的分享就到这里，如果有任何问题欢迎通过 hi@leizhenpeng.com 给我发送邮件。谢谢大家.

@@ -19,7 +19,7 @@ Since there is quite some randomness in the process, sometimes it could be a pit
 
 So, I need to find a way to automate this, helping me to verify and refine the generated QR Code easier. And I came up with a simple web tool to do so. Let me introduce you to a bit about it.
 
-<div i-ri-arrow-right-line /> <a href="https://qrcode.antfu.me/" target="_blank">Anthony's QR Code Toolkit</a>
+<div i-ri-arrow-right-line /> <a href="https://qrcode.leizhenpeng.com/" target="_blank">Anthony's QR Code Toolkit</a>
 
 ## Generating the Base QR Code
 
@@ -53,7 +53,7 @@ Running overnight, I now got like 200 images generated. Say I find one quite int
 
 From a glance, we see there are quite some QR Code-ish spots in this image, which should make it recognizable by the scanner. But why not? Let's find out why:
 
-Using the **Compare** tab of the [toolkit](https://qrcode.antfu.me/), upload both the generated image and the original QR Code, tweak the grid size, and then we could see the mismatched spots and inspect the nodes.
+Using the **Compare** tab of the [toolkit](https://qrcode.leizhenpeng.com/), upload both the generated image and the original QR Code, tweak the grid size, and then we could see the mismatched spots and inspect the nodes.
 
 ![](/images/ai-qrcode-refine-compare-1.png)
 
@@ -143,11 +143,11 @@ Since input has much more soft edges with some shades, it makes the model being 
 
 I hope you enjoy the walkthrough. If you just started doing AI QR Code, give a try to the tool and let me know if it helps. You can find the app and the source code below.
 
-<div i-ri-qr-code-line /> <a href="https://qrcode.antfu.me/" target="_blank">Anthony's QR Code Toolkit</a><br>
+<div i-ri-qr-code-line /> <a href="https://qrcode.leizhenpeng.com/" target="_blank">Anthony's QR Code Toolkit</a><br>
 
 <div i-ri-github-fill /> <a href="https://github.com/antfu/qrcode-toolkit" target="_blank" font-mono>antfu/qrcode-toolkit</a>
 
-Join my [<span op75 i-simple-icons-discord /> Discord Server](https://chat.antfu.me), share what you are working on, and let's explore more together!
+Join my [<span op75 i-simple-icons-discord /> Discord Server](https://chat.leizhenpeng.com), share what you are working on, and let's explore more together!
 
 If you are interested in how I make such tools, I'd recommend continuing reading [About Yak Shaving](/posts/about-yak-shaving) to learn the philosophy I follow when building tools. And if you like my work, consider sponsoring on [<span i-carbon-favorite /> GitHub Sponsor](https://github.com/sponsors/antfu) or [<span i-carbon-lightning /> 爱发电](https://afdian.net/a/antfu) to support me in coming up with more ideas and tools.
 

@@ -130,4 +130,4 @@ So as a workaround, which also been posted in the previous link, we can use the 
 
 The limitation is clear, that the animation only applies to a finite number of elements. You could add more CSS rules to support more, but in practice, I think 20 elements are already quite enough as we don't usually have that many paragraphs fit in one screen.
 
-So that's it, I have applied this effect to most of the pages as well as the blog posts. Let me know what do you think! And you can find the source code [here](https://github.com/antfu/antfu.me/blob/b9f54c9421ae94e37d4cd598c20e02c4f3ed8db4/src/styles/main.css#L87).
+So that's it, I have applied this effect to most of the pages as well as the blog posts. Let me know what do you think! And you can find the source code [here](https://github.com/antfu/leizhenpeng.com/blob/b9f54c9421ae94e37d4cd598c20e02c4f3ed8db4/src/styles/main.css#L87).

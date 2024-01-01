@@ -11,7 +11,7 @@ duration: 10min
 
 > [**ViteConf**](https://viteconf.org/)
 >
-> Slides: [PDF](https://antfu.me/talks/2022-10-11) | [SPA](https://talks.antfu.me/2022/vite-on-demand-dx/)
+> Slides: [PDF](https://leizhenpeng.com/talks/2022-10-11) | [SPA](https://talks.leizhenpeng.com/2022/vite-on-demand-dx/)
 >
 > Recording: [YouTube](https://youtu.be/qXZzXvyqPpc)
 >

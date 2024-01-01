@@ -570,7 +570,7 @@ UnoCSS is still in experiments. But given its simplicity, the generation result 
 
 It's not designed to be a replacement of Windi CSS or Tailwind (consider waiting for Windi CSS v4). We don't recommend migrating existing projects to UnoCSS completely. You can try it on new projects or use it as a complement along with your existing CSS framework (for example, disable default preset and use the icon preset solely for pure CSS icons, or make your custom rules).
 
-Oh btw, [the site you are reading](https://github.com/antfu/antfu.me) is now solely on UnoCSS, for you to reference :P.
+Oh btw, [the site you are reading](https://github.com/antfu/leizhenpeng.com) is now solely on UnoCSS, for you to reference :P.
 
 Meanwhile, please feel free to share the presets you are making or help contribute to our default presets. We can't wait to see what you can come up with!
 
@@ -588,6 +588,6 @@ Appreciate the early review and feedback provided by (A-Z):
 
 ## Wrapping Up
 
-Thanks a lot for reading through! If it ever got you interested, do remember to check out the repo [`unocss/unocss`](https://github.com/unocss/unocss) for more details and play with it on the [**Online Playground**](https://unocss.antfu.me/).
+Thanks a lot for reading through! If it ever got you interested, do remember to check out the repo [`unocss/unocss`](https://github.com/unocss/unocss) for more details and play with it on the [**Online Playground**](https://unocss.leizhenpeng.com/).
 
 Please feel free to comment or retweet [this tweet](https://twitter.com/antfu7/status/1452802545118711812) letting me know what you think! 🙌

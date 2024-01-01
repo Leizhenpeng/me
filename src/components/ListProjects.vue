@@ -61,7 +61,7 @@ function slug(name: string) {
 
       <SponsorButton />
       <div block mt-5>
-        <a href="https://antfu.me/stars-rank" target="_blank" op50>All projects sort by Stars</a>
+        <a href="https://leizhenpeng.com/stars-rank" target="_blank" op50>All projects sort by Stars</a>
       </div>
     </div>
   </div>

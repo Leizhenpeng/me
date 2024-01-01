@@ -10,7 +10,7 @@ recording: true
 duration: 20min
 ---
 
-> Slides: [PDF](https://antfu.me/talks/2023-10-05) | [SPA](https://talks.antfu.me/2023/viteconf)
+> Slides: [PDF](https://leizhenpeng.com/talks/2023-10-05) | [SPA](https://talks.leizhenpeng.com/2023/viteconf)
 >
 > Recording: [YouTube](https://www.youtube.com/watch?v=NJbCfAKtxUI)
 >

@@ -3,7 +3,7 @@ title: Bonjour Paris!
 date: 2022-12-10T16:00:00Z
 lang: en
 duration: 6min
-image: 'https://antfu.me/images/a-paris-1.jpg'
+image: 'https://leizhenpeng.com/images/a-paris-1.jpg'
 ---
 
 Bonjour Paris!

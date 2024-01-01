@@ -10,7 +10,7 @@ recording: true
 duration: 30min
 ---
 
-> Slides: [PDF](https://antfu.me/talks/2021-10-20) | [SPA](https://talks.antfu.me/2021/vue-london)
+> Slides: [PDF](https://leizhenpeng.com/talks/2021-10-20) | [SPA](https://talks.leizhenpeng.com/2021/vue-london)
 >
 > Recording: [YouTube](https://youtu.be/CyaJLrqE9tc)
 >

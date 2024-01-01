@@ -13,7 +13,7 @@ duration: 10min
 
 最近偶尔逛逛知乎，看到不少提问关于如何开始做开源，亦或是如何把开源项目做得成功。我算是也是有过类似的疑惑很长一段时间，就想着，也许我可以来分享一些我在这个方面一些粗浅的看法。
 
-先是关于我，我是 Vue, Vite, wenyan-lang, WindiCSS, Intlify 的团队成员，也是 VueUse, Slidev, Type Challenges, i18n Ally 的作者，在个人的账号下也有一些零零碎碎的开源小工具，具体可以查看我的 [项目列表](https://antfu.me/projects)。从认真开始做开源到现在差不多两年多的时间，这些贡献虽然说不上多么了不起，但是却能够让我通过赞助，[全职进行开源的开发和维护](https://twitter.com/antfu7/status/1362676666221268995)。
+先是关于我，我是 Vue, Vite, wenyan-lang, WindiCSS, Intlify 的团队成员，也是 VueUse, Slidev, Type Challenges, i18n Ally 的作者，在个人的账号下也有一些零零碎碎的开源小工具，具体可以查看我的 [项目列表](https://leizhenpeng.com/projects)。从认真开始做开源到现在差不多两年多的时间，这些贡献虽然说不上多么了不起，但是却能够让我通过赞助，[全职进行开源的开发和维护](https://twitter.com/antfu7/status/1362676666221268995)。
 
 也许很多人会和你说，一个项目的成功靠的是机遇，营销，Branding，或是文档，生态系统，技术创新，代码质量等等。以上这些固然重要，但对我而言，最重要是开始做一个项目的动机和把它做好的动力，而获得这个能力的最好途径，便是 Yak Shaving。
 

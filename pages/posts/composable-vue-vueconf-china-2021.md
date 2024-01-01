@@ -9,7 +9,7 @@ recording: true
 duration: 30min
 ---
 
-> 幻灯片: [PDF](https://antfu.me/talks/2021-05-22) | [SPA](https://talks.antfu.me/2021/vueconf-china)
+> 幻灯片: [PDF](https://leizhenpeng.com/talks/2021-05-22) | [SPA](https://talks.leizhenpeng.com/2021/vueconf-china)
 >
 > 直播录像: [哔哩哔哩](https://www.bilibili.com/video/BV1x54y1V7H6)
 >

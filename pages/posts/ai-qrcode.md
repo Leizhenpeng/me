@@ -143,7 +143,7 @@ And using the similarly process, I made another one for Inès:
 
 Creating this image took me a full day, with a total of 10 hours of learning, generating, and refining. The process was incredibly enjoyable for me, and I am thrilled with the end result! I hope this post can offer you some fundamental concepts or inspire you to embark on your own creative journey. There is undoubtedly much more to explore in this field, and I eager to see what's coming next!
 
-Join my [Discord Server](https://chat.antfu.me) and let's explore more together!
+Join my [Discord Server](https://chat.leizhenpeng.com) and let's explore more together!
 
 If you want to learn more about the refining process, go check my new blog post: [**Refining AI Generated QR Code**](/posts/ai-qrcode-refine).
 

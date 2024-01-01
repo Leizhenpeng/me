@@ -570,12 +570,12 @@ UnoCSS 仍处于实验阶段，但由于其精简的设计，生成的结果已�
 
 注意：它并非被设计成 Windi CSS 或 Tailwind 的替代品（考虑等待 Windi CSS v4）。我们不建议将现有项目完全迁移到 UnoCSS。你可以在新的项目中试用它，或者将它作为你现有 CSS 框架的补充（例如，禁用默认预设，只使用纯 CSS 图标的预设，或者自定义你的规则）。
 
-顺便说一句，目前 [你正在阅读的网站](https://github.com/antfu/antfu.me) 就构建于 UnoCSS 之上，供你参考 :P。
+顺便说一句，目前 [你正在阅读的网站](https://github.com/antfu/leizhenpeng.com) 就构建于 UnoCSS 之上，供你参考 :P。
 
 同时，欢迎分享你正在制作的预设或帮助我们贡献默认的预设。期待看到你能够蹦出什么新想法！
 
 ## 结束语
 
-非常感谢你的阅读！如果你对它感兴趣，请记得查看 [`antfu/unocss`](https://github.com/antfu/unocss) 仓库以了解更多细节，也可以通过 [**在线 Playground**](https://unocss.antfu.me/) 进行尝试。
+非常感谢你的阅读！如果你对它感兴趣，请记得查看 [`antfu/unocss`](https://github.com/antfu/unocss) 仓库以了解更多细节，也可以通过 [**在线 Playground**](https://unocss.leizhenpeng.com/) 进行尝试。
 
 欢迎评论或转发 [此推文](https://twitter.com/antfu7/status/1452802545118711812)，让我知道你的想法！🙌

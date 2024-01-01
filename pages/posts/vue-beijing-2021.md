@@ -14,7 +14,7 @@ duration: 18min
 
 > This is the transcript of my talk at [Vue Beijing](https://twitter.com/beijing_vue)
 >
-> Slides: [English ver.](https://antfu.me/talks/2021-03-28/en) | [中文 ver.](https://antfu.me/talks/2021-03-28/zh)
+> Slides: [English ver.](https://leizhenpeng.com/talks/2021-03-28/en) | [中文 ver.](https://leizhenpeng.com/talks/2021-03-28/zh)
 >
 > Recording: [YouTube (English)](https://www.youtube.com/watch?v=xx8gEHet6n8)
 

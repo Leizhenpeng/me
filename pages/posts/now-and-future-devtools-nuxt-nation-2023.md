@@ -10,7 +10,7 @@ recording: true
 duration: 20min
 ---
 
-> Slides: [PDF](https://antfu.me/talks/2023-10-18) | [SPA](https://talks.antfu.me/2023/nuxt-devtools-next)
+> Slides: [PDF](https://leizhenpeng.com/talks/2023-10-18) | [SPA](https://talks.leizhenpeng.com/2023/nuxt-devtools-next)
 >
 > Recording: [YouTube](https://youtu.be/E6kTiIbU3N8)
 >

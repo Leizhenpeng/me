@@ -9,12 +9,12 @@ tocAlwaysOn: true
 [[toc]]
 
 <p>
-<span i-carbon-events mr1 /> Co-authored by <a href="https://antfu.me" target="_blank">Anthony Fu</a>, <a href="https://space.bilibili.com/339984/" target="_blank">赛博迪克朗</a>, wangcai and <a href="https://www.xiaohongshu.com/user/profile/5be8fb806b58b745447aab0f" target="_blank">代々木</a>
+<span i-carbon-events mr1 /> Co-authored by <a href="https://leizhenpeng.com" target="_blank">Anthony Fu</a>, <a href="https://space.bilibili.com/339984/" target="_blank">赛博迪克朗</a>, wangcai and <a href="https://www.xiaohongshu.com/user/profile/5be8fb806b58b745447aab0f" target="_blank">代々木</a>
 </p>
 
 > **This is a live document**, will be updated as we learn more. Check back occasionally.
 
-A summary of discussions made in [QRBTF's Discord server](https://discord.gg/V9CNuqYfte) and [Anthony's Discord server](https://chat.antfu.me). Thanks to everyone who participated in those servers.
+A summary of discussions made in [QRBTF's Discord server](https://discord.gg/V9CNuqYfte) and [Anthony's Discord server](https://chat.leizhenpeng.com). Thanks to everyone who participated in those servers.
 
 ## What's a Stable Diffusion QR Code?
 
@@ -94,7 +94,7 @@ When the images are generated, we will use a QR Code scanner to verify if the co
 
 If your goal is to make a more blended-in QR Code, and you are okay with the code not being scannable by all QR Code readers, it's better to use an error-tolerant scanner to verify. We recommend using iOS's code **scanner from the Control Center**, or the scanner from [WeChat](https://www.wechat.com/en/) to verify your QR Code. They are the most tolerant ones we found so far.
 
-Meanwhile, if you failed to find a good scanner on your phone, or want to verify the QR Codes directly in your computer, we recently enrolled a [new scanner in Anthony's QR Toolkit](https://qrcode.antfu.me/#scan), based on [WeChat's open sourced algorithm](https://docs.opencv.org/4.5.4/d5/d04/classcv_1_1wechat__qrcode_1_1WeChatQRCode.html) (Ported to WebAssembly, source code at [antfu/qr-scanner-wechat](https://github.com/antfu/qr-scanner-wechat)).
+Meanwhile, if you failed to find a good scanner on your phone, or want to verify the QR Codes directly in your computer, we recently enrolled a [new scanner in Anthony's QR Toolkit](https://qrcode.leizhenpeng.com/#scan), based on [WeChat's open sourced algorithm](https://docs.opencv.org/4.5.4/d5/d04/classcv_1_1wechat__qrcode_1_1WeChatQRCode.html) (Ported to WebAssembly, source code at [antfu/qr-scanner-wechat](https://github.com/antfu/qr-scanner-wechat)).
 
 ![](/images/ai-qrcode-101-toolkit-scanner.png)
 
@@ -102,7 +102,7 @@ Meanwhile, if you failed to find a good scanner on your phone, or want to verify
 
 ### Compare with the Original QR Code
 
-You can use [Anthony's QR Toolkit](https://qrcode.antfu.me/) to compare the generated QR Code with the original one. It will show you the mismatches and help you to optimize the generation process.
+You can use [Anthony's QR Toolkit](https://qrcode.leizhenpeng.com/) to compare the generated QR Code with the original one. It will show you the mismatches and help you to optimize the generation process.
 
 ![](/images/ai-qrcode-refine-compare-2.png)
 
@@ -319,7 +319,7 @@ You can refer to [this post](/posts/ai-qrcode-refine#generating-the-base-qr-code
 
 ![Comparison grid between different styled QR Code as input](/images/ai-qrcode-refine-input-compare.jpg)
 
-We recommend using [Anthony's QR Toolkit](https://qrcode.antfu.me/) to generate the QR Code. It allows you to customize the QR Code and distort it as needed.
+We recommend using [Anthony's QR Toolkit](https://qrcode.leizhenpeng.com/) to generate the QR Code. It allows you to customize the QR Code and distort it as needed.
 
 Meanwhile, the margin area of the QR Code also affects the look and feel, for example:
 
@@ -365,7 +365,7 @@ To help the QR codes more blend in, we find that it's helpful to include some fl
       <img src="/images/ai-qrcode-refine-distort-result.png" rounded-md shadow />
       <figcaption text-center>
         <b text-lg>plants</b>
-        <div text-xs mt1>by <a href="https://antfu.me" target="_blank">Anthony Fu</a></div>
+        <div text-xs mt1>by <a href="https://leizhenpeng.com" target="_blank">Anthony Fu</a></div>
       </figcaption>
     </figure>
     <figure important-my-0>
@@ -379,14 +379,14 @@ To help the QR codes more blend in, we find that it's helpful to include some fl
       <img src="/images/ai-qrcode-101-prompt-lace.jpg" rounded-md shadow />
       <figcaption text-center>
         <b text-lg>lace</b>
-        <div text-xs mt1>by <a href="https://antfu.me" target="_blank">Anthony Fu</a></div>
+        <div text-xs mt1>by <a href="https://leizhenpeng.com" target="_blank">Anthony Fu</a></div>
       </figcaption>
     </figure>
     <figure important-my-0>
       <img src="/images/ai-qrcode-101-prompt-snow.jpg" rounded-md shadow />
       <figcaption text-center>
         <b text-lg>snow</b>
-        <div text-xs mt1>by <a href="https://antfu.me" target="_blank">Anthony Fu</a></div>
+        <div text-xs mt1>by <a href="https://leizhenpeng.com" target="_blank">Anthony Fu</a></div>
       </figcaption>
     </figure>
     <figure important-my-0>
@@ -500,14 +500,14 @@ To make the QR Code less obvious, you can try to generate a non-square image, le
 <figure>
   <img src="/images/ai-qrcode-101-non-square-example3.jpg" rounded shadow />
   <figcaption text-center>
-    by <a href="https://antfu.me/" target="_blank">Anthony Fu</a>
+    by <a href="https://leizhenpeng.com/" target="_blank">Anthony Fu</a>
   </figcaption>
 </figure>
 
 <figure>
   <img src="/images/ai-qrcode-101-non-square-example1.jpg" rounded shadow />
   <figcaption text-center>
-    by <a href="https://antfu.me/" target="_blank">Anthony Fu</a>
+    by <a href="https://leizhenpeng.com/" target="_blank">Anthony Fu</a>
   </figcaption>
 </figure>
 
@@ -515,7 +515,7 @@ To generate a non-square image, you can change the **Resize Mode** in ControlNet
 
 ![](/images/ai-qrcode-101-non-square-resize.png)
 
-Or in the [Toolkit](https://qrcode.antfu.me/), you click the <span i-carbon-chevron-down/> button on **Margin** to expand the option and have different margins for each side.
+Or in the [Toolkit](https://qrcode.leizhenpeng.com/), you click the <span i-carbon-chevron-down/> button on **Margin** to expand the option and have different margins for each side.
 
 ![](/images/ai-qrcode-101-non-square-toolkit.png)
 
@@ -680,7 +680,7 @@ You can learn more about OpenPose in [this tutorial](https://stable-diffusion-ar
 <hr>
 
 <div border="~ rounded-full base" px3 py1 inline text-sm float-right>
-<span i-ri-book-2-line /> Credits to <a href="https://antfu.me" target="_blank">Anthony Fu</a>
+<span i-ri-book-2-line /> Credits to <a href="https://leizhenpeng.com" target="_blank">Anthony Fu</a>
 </div>
 
 ### Selective Multi-layer Control
@@ -693,7 +693,7 @@ Other than the position markers that are obvious to find, we can see there are a
 
 So, since the data points in a QR Code are **not equally important**, why would we control them equally? Maybe we could try to selective control different areas. Like increasing the control weight of the functional areas and decreasing the weight of the data area, to make the QR Code more scannable while being more artistic.
 
-In the recent update of [QR Toolkit](https://qrcode.antfu.me/), we added a new option **Render Type** to only generate some specific areas of the QR Code, combining with a grey background, we could have:
+In the recent update of [QR Toolkit](https://qrcode.leizhenpeng.com/), we added a new option **Render Type** to only generate some specific areas of the QR Code, combining with a grey background, we could have:
 
 > <span i-ri-lightbulb-line text-yellow/> Both **QR Pattern v2** and **QR Code Monster** models support having grey as the hint of arbitrary content (bypass the control). Thanks for the information from [Nacholmo](https://civitai.com/user/Nacholmo) and [Cyril Bareme](https://twitter.com/vyrilbareme).
 
@@ -787,4 +787,4 @@ Similarly, we could combing with QR Code, or anything you can think of:
 
 This guide is aimed to be a one-stop documentations and references for the community to learn about the QR Code models and how to use them.
 
-If you are interested in contributing to this post, fixing typos, or adding new ideas, you can [edit this page on GitHub](https://github.com/antfu/antfu.me/edit/main/pages/posts/ai-qrcode-101.md). Or if you are not familiar with Git, you can also go to [Anthony's Discord server](https://chat.antfu.me) and discuss with us.
+If you are interested in contributing to this post, fixing typos, or adding new ideas, you can [edit this page on GitHub](https://github.com/antfu/leizhenpeng.com/edit/main/pages/posts/ai-qrcode-101.md). Or if you are not familiar with Git, you can also go to [Anthony's Discord server](https://chat.leizhenpeng.com) and discuss with us.
