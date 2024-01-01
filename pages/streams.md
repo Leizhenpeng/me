@@ -1,5 +1,5 @@
 ---
-title: Streams - Anthony Fu
+title: Streams - River Ray
 display: ''
 plum: true
 items:
@@ -48,12 +48,12 @@ items:
     path: 'https://www.bilibili.com/video/BV1sa41147qH'
     platform: Bilibili
     lang: 'zh'
-  - title: 'Create with Anthony Fu - A World Clock EP1'
+  - title: 'Create with River Ray - A World Clock EP1'
     platform: YouTube
     date: '2022-06-11'
     path: 'https://www.youtube.com/watch?v=-EHoncCeg_Y'
     lang: 'en'
-  - title: 'Create with Anthony Fu - A World Clock EP2'
+  - title: 'Create with River Ray - A World Clock EP2'
     platform: YouTube
     date: '2022-06-12'
     path: 'https://www.youtube.com/watch?v=8vfDZqZLiG8'

@@ -17,7 +17,7 @@ Hello 大家好，非常感谢丁香园这次的邀请，也非常荣幸能够�
 
 我这次分享的主题是 `import { reactive } from 'vue'`，和大家简单聊一聊 Vue 3 的响应式和组合式，以及他们的一些应用。
 
-我叫 Anthony Fu，是 Vue 的 Core Team 的一员，我在 Vue 主要负责 @vue/composition-api 这个项目的维护。这是一个面向 Vue 2 的插件，它在 Vue 2 中增加了 Vue 3 的 Composition API 的支持。我最近也加入了 Vite 负责一些 Code Review 的工作。可以在下面这些平台找到我。
+我叫 River Ray，是 Vue 的 Core Team 的一员，我在 Vue 主要负责 @vue/composition-api 这个项目的维护。这是一个面向 Vue 2 的插件，它在 Vue 2 中增加了 Vue 3 的 Composition API 的支持。我最近也加入了 Vite 负责一些 Code Review 的工作。可以在下面这些平台找到我。
 
 - GitHub [@antfu](https://github.com/antfu)
 - Twitter [@antfu7](https://twitter.com/antfu7)

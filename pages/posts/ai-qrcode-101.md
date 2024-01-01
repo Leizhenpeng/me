@@ -9,7 +9,7 @@ tocAlwaysOn: true
 [[toc]]
 
 <p>
-<span i-carbon-events mr1 /> Co-authored by <a href="https://leizhenpeng.com" target="_blank">Anthony Fu</a>, <a href="https://space.bilibili.com/339984/" target="_blank">赛博迪克朗</a>, wangcai and <a href="https://www.xiaohongshu.com/user/profile/5be8fb806b58b745447aab0f" target="_blank">代々木</a>
+<span i-carbon-events mr1 /> Co-authored by <a href="https://leizhenpeng.com" target="_blank">River Ray</a>, <a href="https://space.bilibili.com/339984/" target="_blank">赛博迪克朗</a>, wangcai and <a href="https://www.xiaohongshu.com/user/profile/5be8fb806b58b745447aab0f" target="_blank">代々木</a>
 </p>
 
 > **This is a live document**, will be updated as we learn more. Check back occasionally.
@@ -50,8 +50,8 @@ Once you set them up, there are two approaches to generating a stylized QR Code:
 
 Generate an image with prompts, and use ControlNet with a QR Code input to intervention the generation process.
 
-- [Stylistic QR Code with Stable Diffusion](/posts/ai-qrcode) - by Anthony Fu
-- [Refining AI Generated QR Code](/posts/ai-qrcode-refine) - by Anthony Fu
+- [Stylistic QR Code with Stable Diffusion](/posts/ai-qrcode) - by River Ray
+- [Refining AI Generated QR Code](/posts/ai-qrcode-refine) - by River Ray
 - [[Video] 二维码融合技术2.0](https://www.bilibili.com/video/BV1zF411R7xg/) - by 赛博迪克朗
 
 ### Method B: **Image to Image**
@@ -365,7 +365,7 @@ To help the QR codes more blend in, we find that it's helpful to include some fl
       <img src="/images/ai-qrcode-refine-distort-result.png" rounded-md shadow />
       <figcaption text-center>
         <b text-lg>plants</b>
-        <div text-xs mt1>by <a href="https://leizhenpeng.com" target="_blank">Anthony Fu</a></div>
+        <div text-xs mt1>by <a href="https://leizhenpeng.com" target="_blank">River Ray</a></div>
       </figcaption>
     </figure>
     <figure important-my-0>
@@ -379,14 +379,14 @@ To help the QR codes more blend in, we find that it's helpful to include some fl
       <img src="/images/ai-qrcode-101-prompt-lace.jpg" rounded-md shadow />
       <figcaption text-center>
         <b text-lg>lace</b>
-        <div text-xs mt1>by <a href="https://leizhenpeng.com" target="_blank">Anthony Fu</a></div>
+        <div text-xs mt1>by <a href="https://leizhenpeng.com" target="_blank">River Ray</a></div>
       </figcaption>
     </figure>
     <figure important-my-0>
       <img src="/images/ai-qrcode-101-prompt-snow.jpg" rounded-md shadow />
       <figcaption text-center>
         <b text-lg>snow</b>
-        <div text-xs mt1>by <a href="https://leizhenpeng.com" target="_blank">Anthony Fu</a></div>
+        <div text-xs mt1>by <a href="https://leizhenpeng.com" target="_blank">River Ray</a></div>
       </figcaption>
     </figure>
     <figure important-my-0>
@@ -500,14 +500,14 @@ To make the QR Code less obvious, you can try to generate a non-square image, le
 <figure>
   <img src="/images/ai-qrcode-101-non-square-example3.jpg" rounded shadow />
   <figcaption text-center>
-    by <a href="https://leizhenpeng.com/" target="_blank">Anthony Fu</a>
+    by <a href="https://leizhenpeng.com/" target="_blank">River Ray</a>
   </figcaption>
 </figure>
 
 <figure>
   <img src="/images/ai-qrcode-101-non-square-example1.jpg" rounded shadow />
   <figcaption text-center>
-    by <a href="https://leizhenpeng.com/" target="_blank">Anthony Fu</a>
+    by <a href="https://leizhenpeng.com/" target="_blank">River Ray</a>
   </figcaption>
 </figure>
 
@@ -680,7 +680,7 @@ You can learn more about OpenPose in [this tutorial](https://stable-diffusion-ar
 <hr>
 
 <div border="~ rounded-full base" px3 py1 inline text-sm float-right>
-<span i-ri-book-2-line /> Credits to <a href="https://leizhenpeng.com" target="_blank">Anthony Fu</a>
+<span i-ri-book-2-line /> Credits to <a href="https://leizhenpeng.com" target="_blank">River Ray</a>
 </div>
 
 ### Selective Multi-layer Control

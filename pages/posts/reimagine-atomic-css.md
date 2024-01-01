@@ -38,7 +38,7 @@ We are not going to talk about the pros and cons of using atomic CSS here, as yo
 
 ## The Background
 
-Before we start, let's talk a bit about the background. If you don't know me, my name is Anthony Fu, and I am a [Vite](https://vitejs.dev/) team member and the creator of [Vitesse](https://github.com/antfu/vitesse), one of the most popular starter templates for Vite. I enjoy the speedy development experience of atomic CSS (or CSS utilities), so I chose to use [Tailwind CSS](https://tailwindcss.com/) as the default UI framework for Vitesse. While Vite should be incredibly fast compared to Webpack and others, Tailwind, which generates megabytes of utility CSS, makes the start-up and HMR on Vite slow as the old days. I once thought this was some kind of trade-off for using atomic CSS solutions - until I discovered [Windi CSS](https://windicss.org).
+Before we start, let's talk a bit about the background. If you don't know me, my name is River Ray, and I am a [Vite](https://vitejs.dev/) team member and the creator of [Vitesse](https://github.com/antfu/vitesse), one of the most popular starter templates for Vite. I enjoy the speedy development experience of atomic CSS (or CSS utilities), so I chose to use [Tailwind CSS](https://tailwindcss.com/) as the default UI framework for Vitesse. While Vite should be incredibly fast compared to Webpack and others, Tailwind, which generates megabytes of utility CSS, makes the start-up and HMR on Vite slow as the old days. I once thought this was some kind of trade-off for using atomic CSS solutions - until I discovered [Windi CSS](https://windicss.org).
 
 <img src="/images/discover-windicss.png" class="transform scale-110 py-2"/>
 

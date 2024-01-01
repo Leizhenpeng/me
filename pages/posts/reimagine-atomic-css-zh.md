@@ -44,7 +44,7 @@ John Polacek 在 [文章 Let’s Define Exactly What Atomic CSS is](https://css-
 
 ## 背景
 
-在正式开始前，先来聊聊背景。如果你还不认识我，我叫 Anthony Fu，是 [Vite](https://vitejs.dev/) 团队的成员，也是 [Vitesse](https://github.com/antfu/vitesse) (Vite 社区最受欢迎的起手模板之一) 的作者。我享受原子化 CSS 带来的快速开发体验，而因此选择了 [Tailwind CSS](https://tailwindcss.com/) 作为 Vitesse 的默认 UI 框架。虽然 Vite 较 Webpack 等工具相比，在加载速度上有了大幅提升，但由于 Tailwind 生成了数 MB 的 CSS，使得加载与更新 CSS 成为了整个 Vite 应用的性能瓶颈。我曾以为这是使用为了原子式 CSS 的一种权衡，直到我发现了 [Windi CSS](https://cn.windicss.org)。
+在正式开始前，先来聊聊背景。如果你还不认识我，我叫 River Ray，是 [Vite](https://vitejs.dev/) 团队的成员，也是 [Vitesse](https://github.com/antfu/vitesse) (Vite 社区最受欢迎的起手模板之一) 的作者。我享受原子化 CSS 带来的快速开发体验，而因此选择了 [Tailwind CSS](https://tailwindcss.com/) 作为 Vitesse 的默认 UI 框架。虽然 Vite 较 Webpack 等工具相比，在加载速度上有了大幅提升，但由于 Tailwind 生成了数 MB 的 CSS，使得加载与更新 CSS 成为了整个 Vite 应用的性能瓶颈。我曾以为这是使用为了原子式 CSS 的一种权衡，直到我发现了 [Windi CSS](https://cn.windicss.org)。
 
 <img src="/images/discover-windicss-zh.png" class="transform scale-110 py-2"/>
 

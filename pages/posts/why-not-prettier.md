@@ -63,11 +63,11 @@ Prettier as a code formatter, only cares about code styles but not the logic. Th
 However, the approach creates quite a lot of mess to me:
 
 <Tweet conversation="none">
-<p lang="en" dir="ltr">My points here:<br><br>1. Prettier Only is cool - It&#39;s out-of-box.<br>2. If you need to use ESLint, it can do the formatting as good as Prettier - and more configurable</p>&mdash; Anthony Fu (@antfu7) <a href="https://twitter.com/antfu7/status/1279149211523538944?ref_src=twsrc%5Etfw">July 3, 2020</a>
+<p lang="en" dir="ltr">My points here:<br><br>1. Prettier Only is cool - It&#39;s out-of-box.<br>2. If you need to use ESLint, it can do the formatting as good as Prettier - and more configurable</p>&mdash; River Ray (@antfu7) <a href="https://twitter.com/antfu7/status/1279149211523538944?ref_src=twsrc%5Etfw">July 3, 2020</a>
 </Tweet>
 
 <Tweet conversation="none">
-<p lang="en" dir="ltr">3. Prettier + ESLint still needs a lot of configs - It doesn&#39;t make your life easier.<br>4. You can have full control in ESLint but not in Prettier, mixing them together feels weird.<br>5. I don&#39;t think parsing two times can be faster (maybe I am wrong)</p>&mdash; Anthony Fu (@antfu7) <a href="https://twitter.com/antfu7/status/1279149212974776320?ref_src=twsrc%5Etfw">July 3, 2020</a>
+<p lang="en" dir="ltr">3. Prettier + ESLint still needs a lot of configs - It doesn&#39;t make your life easier.<br>4. You can have full control in ESLint but not in Prettier, mixing them together feels weird.<br>5. I don&#39;t think parsing two times can be faster (maybe I am wrong)</p>&mdash; River Ray (@antfu7) <a href="https://twitter.com/antfu7/status/1279149212974776320?ref_src=twsrc%5Etfw">July 3, 2020</a>
 </Tweet>
 
 [ESLint's auto fix](https://developer.ibm.com/articles/auto-fix-and-format-your-javascript-with-eslint/) could also do the formatting just as well as Prettier - with much more freedom of choices.

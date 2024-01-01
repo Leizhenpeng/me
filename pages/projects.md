@@ -1,5 +1,5 @@
 ---
-title: Projects - Anthony Fu
+title: Projects - River Ray
 display: Projects
 description: List of projects that I am proud of
 plum: true

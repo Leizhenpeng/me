@@ -1,11 +1,11 @@
 ---
-title: Giving Talks - Anthony Fu
+title: Giving Talks - River Ray
 display: ''
 ---
 
 # Giving Talks
 
-Hey! My name is [Anthony Fu](/). I am a fanatical open sourceror living in Paris. I am focusing on many areas in frontend like Vite, Vue, Nuxt, DX, CSS, etc.
+Hey! My name is [River Ray](/). I am a fanatical open sourceror living in Paris. I am focusing on many areas in frontend like Vite, Vue, Nuxt, DX, CSS, etc.
 
 [Here are the talks I have given](/talks).
 
@@ -23,7 +23,7 @@ You can use the following information to present me:
 
 <div grid="~ cols-[max-content_1fr] gap-1">
   <div text-right pr2 op50 font-bold>Name</div>
-  <TextCopy>Anthony Fu</TextCopy>
+  <TextCopy>River Ray</TextCopy>
 
   <div text-right pr2 op50 font-bold>Avatar</div>
   <div><a href="https://leizhenpeng.com/avatar.png" target="_blank">https://leizhenpeng.com/avatar.png</a></div>

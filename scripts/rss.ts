@@ -8,7 +8,7 @@ import { Feed } from 'feed'
 
 const DOMAIN = 'https://leizhenpeng.com'
 const AUTHOR = {
-  name: 'Anthony Fu',
+  name: 'River Ray',
   email: 'hi@leizhenpeng.com',
   link: DOMAIN,
 }
@@ -26,11 +26,11 @@ async function buildBlogRSS() {
   const files = await fg('pages/posts/*.md')
 
   const options = {
-    title: 'Anthony Fu',
-    description: 'Anthony Fu\' Blog',
+    title: 'River Ray',
+    description: 'River Ray\' Blog',
     id: 'https://leizhenpeng.com/',
     link: 'https://leizhenpeng.com/',
-    copyright: 'CC BY-NC-SA 4.0 2021 © Anthony Fu',
+    copyright: 'CC BY-NC-SA 4.0 2021 © River Ray',
     feedLinks: {
       json: 'https://leizhenpeng.com/feed.json',
       atom: 'https://leizhenpeng.com/feed.atom',
