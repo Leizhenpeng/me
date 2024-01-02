@@ -24,8 +24,8 @@ Find me on
 
 <p flex="~ gap-3 wrap" class="mt--2!">
   <a href="https://github.com/leizhenpeng" target="_blank"><span op75 i-simple-icons-github /> GitHub</a>
-  <a href="https://www.twitter.com/zhenpenglei" target="_blank"><span op75 i-ri-twitter-x-fill /> Twitter</a>
   <a href="https://space.bilibili.com/66891783" target="_blank"><span op75 i-simple-icons-bilibili /> 哔哩哔哩</a>
   <a href="https://book.douban.com/people/151095889/collect" target="_blank"><span op75 i-simple-icons-douban /> 豆瓣读书</a>
+  <a href="https://www.twitter.com/zhenpenglei" target="_blank"><span op75 i-ri-twitter-x-fill /> Twitter</a>
 </p>
 
