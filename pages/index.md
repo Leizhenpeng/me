@@ -5,7 +5,7 @@ image: https://leizhenpeng.com/og.png
 plum: true
 ---
 
-Hey, I am River, a fanatical open sourceror.
+Hey, I am river, a fanatical open sourceror.
 
 Working at [<span i-simple-icons-github /> ConnectAI](https://github.com/ConnectAI-E).<br>
 Creator of [feishu-openai](https://github.com/ConnectAI-E/feishu-openai), [gitmaya](https://github.com/ConnectAI-E/GitMaya), [others](/projects).<br>
