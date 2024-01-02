@@ -46,10 +46,10 @@ svg {
     stroke-dasharray: 0 350px;
     opacity: 0;
   }
-  10% {
+  30% {
     opacity: 1;
   }
-  40% {
+  80% {
     stroke-dasharray: 350px 0;
   }
   85% {
@@ -63,7 +63,7 @@ svg {
 .path1 {
   stroke-dashoffset: 1px;
   stroke-dasharray: 350px 0;
-  animation: grow 10s ease forwards infinite;
+  animation: grow 8s ease forwards infinite;
   transform-origin: center;
   stroke: #303030;
   animation-delay: 0s;
