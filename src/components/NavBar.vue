@@ -76,8 +76,8 @@ const { y: scroll } = useWindowScroll()
 
 .logo {
   position: absolute;
-  top: 1.5rem;
-  left: 1.5rem;
+  top: 2rem;
+  left: 2rem;
 }
 
 .nav {

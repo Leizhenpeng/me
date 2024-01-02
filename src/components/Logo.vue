@@ -1,5 +1,5 @@
 <template>
-  <svg viewBox="0 0 110 110" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <svg viewBox="0 0 110 110" fill="none"  xmlns="http://www.w3.org/2000/svg">
     <title>River Ray @ leizhenpeng.com</title>
     <mask id="mask0_421_128" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="11" y="6" width="106" height="47">
       <path
@@ -24,6 +24,10 @@
 </template>
 
 <style scoped>
+svg {
+  scale: 2;
+  transform-origin: left top;
+}
 @media (prefers-reduced-motion) {
   .path1 {
     animation: none !important;
