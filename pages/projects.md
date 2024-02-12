@@ -34,9 +34,9 @@ projects:
       link: 'https://ss-link.netlify.app/'
       desc: 'Shorten link, make sharing simpler'
       icon: 'i-carbon-link'
-    - name: 'GPTSs Now'
+    - name: 'GPTs Now'
       link: 'https://openai-now.com/'
-      desc: 'add -now to any GPTs URL and use it directly'
+      desc: 'add -now on any GPTs URL and use it directly'
       icon: 'i-carbon-connect'
 
 
