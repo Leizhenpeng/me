@@ -1,31 +1,10 @@
 export function getStarsRankingUrl() {
   const users = [
-    'antfu',
-    'codecember',
-    'knightly',
-    'slidevjs',
-    'type-challenges',
-    'unocss',
-    'elk-zone',
-    'vueuse',
-    'vitest-dev',
-    'vue-reactivity',
-    'vite-pwa',
+    'Leizhenpeng',
+    'ConnectAI-E',
   ]
   const repos = [
-    'lokalise/i18n-ally',
-    'nuxt/nuxt',
-    'nuxt/modules',
-    'nuxt/devtools',
-    'unjs/unplugin',
-    'unjs/unimport',
-    'vitejs/awesome-vite',
-    'vitejs/vite',
-    'vuejs/composition-api',
-    'wenyan-lang/ide',
-    'wenyan-lang/wenyan',
-    'wenyan-lang/wyg',
-    'windicss/vite-plugin-windicss',
+      ''
   ]
 
   const query = [
