@@ -14,7 +14,7 @@ projects:
   Feishu Extension:
     - name: 'Feishu OpenAI'
       link: 'https://github.com/ConnectAI-E/Feishu-OpenAI'
-      desc: '飞书 ×（GPT-4 + GPT-4V + DALL·E-3 + Whisper）= 飞一般的工作体验'
+      desc: '飞书 × OpenAI = 飞一般的工作体验'
       icon: 'i-icon-park-outline:new-lark'
     - name: 'Feishu Midjourney'
       link: 'https://github.com/ConnectAI-E/Feishu-MidjourneyI'
@@ -22,7 +22,7 @@ projects:
       icon: 'i-fa6-solid-sailboat'
     - name: 'TalkBase'
       link: 'https://github.com/ConnectAI-E/TalkBase'
-      desc: '用自然语言往多维表格写入数据'
+      desc: '自然语言操作飞书多维表格'
       icon: 'i-material-symbols-table-chart'
 
   Websites / Online Tools:
@@ -64,7 +64,7 @@ projects:
   CLI:
     - name: 'GitOps'
       link: 'https://github.com/connectai-e/botops'
-      desc: 'Makes chatbot deployment easy, supporting Feishu, DingTalk, Discord, Github and Slack.'
+      desc: 'Makes chatbot deployment easy'
       icon: 'i-codicon-package'
     - name: 'GPT ChatBot Cli'
       link: 'https://github.com/Leizhenpeng/gpt-chatBot-cli'
