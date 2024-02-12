@@ -40,7 +40,7 @@ projects:
       icon: 'i-carbon-connect'
 
 
-      
+
 
   Starter Templates:
     - name: 'nestjs'
@@ -66,17 +66,17 @@ projects:
       link: 'https://github.com/connectai-e/botops'
       desc: 'Makes chatbot deployment easy, supporting Feishu, DingTalk, Discord, Github and Slack.'
       icon: 'i-codicon-package'
-    - name: 'GPT-chatBot-cli'
+    - name: 'GPT ChatBot Cli'
       link: 'https://github.com/Leizhenpeng/gpt-chatBot-cli'
       desc: 'Chat with GPT in terminal'
       icon: 'i-simple-icons-openai'
 
   Golang Tricks:
-    - name: 'golang-trick'
+    - name: 'golang trick'
       link: 'https://github.com/Leizhenpeng/golang-trick'
       desc: '书里没有的golang小技巧'
       icon: 'i-tabler-brand-golang'
-    - name: 'go-email-verification'
+    - name: 'email verification'
       link: 'https://github.com/Leizhenpeng/go-email-verification'
       desc: 'Email verification with Gin'
       icon: 'i-tabler-brand-golang'
@@ -86,7 +86,7 @@ projects:
       link: 'https://github.com/futantan/OpenGpt'
       desc: 'Create your own ChatGPT App in seconds.'
       icon: 'i-simple-icons-openai'
-    - name: 'jike-sdk'
+    - name: 'jike sdk'
       link: 'https://github.com/open-jike/jike-sdk'
       desc: '即刻野生 SDK'
       icon: 'i-carbon-api'
@@ -134,11 +134,30 @@ projects:
       desc: '迭代放缩容器图层'
       icon: 'i-fluent-resize-16-regular'
 
-
-
-
-
-
+    - name: 'Remove Bg'
+      link: 'https://mastergo.com/community/plugin/73987815450371' 
+      desc: '基于 remove.bg.api 快速去除图片背景' 
+      icon: 'i-material-symbols-no-photography'
+    - name: '尺寸重置'
+      link: 'https://mastergo.com/community/plugin/74341242737877'
+      desc: '批量恢复图片为原始尺寸'
+      icon: 'i-fluent-restore-16-regular'
+    - name : '适应比例'
+      link : 'https://mastergo.com/community/plugin/74413598933961'
+      desc : '放缩图片的长或宽, 自动适应原始比例'
+      icon : 'i-material-symbols-fit-screen'
+    - name : '复鼓'
+      link : 'https://mastergo.com/community/plugin/74498502453610'
+      desc : '复鼓=复制+打鼓'
+      icon : 'i-fluent-mdl2-slider-thumb'
+    - name: '重排行列'
+      link: 'https://mastergo.com/community/plugin/74572700984823'
+      desc: '将横纵规整的 frame 或 group 重新排列'
+      icon: 'i-solar-video-frame-2-bold'
+    - name : '网格王子'
+      link : 'https://mastergo.com/community/plugin/74659353592141'
+      desc : '元素将在移动/缩放时统统完美自动对齐网格'
+      icon : 'i-solar-graph-line-duotone'   
 
 
 ---
