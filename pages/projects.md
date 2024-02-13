@@ -7,8 +7,8 @@ wrapperClass: 'text-center'
 projects:
   Current Focus:
     - name: 'GitMaya'
-      link: 'https://github.com/nuxt/learn.nuxt.com'
-      desc: 'Next generation gitops tool in chat'
+      link: 'https://github.com/ConnectAI-E/GitMaya'
+      desc: 'Next generation git-ops tool in chat'
       icon: 'i-carbon-logo-github saturate-0'
 
   Feishu Extension:
@@ -17,7 +17,7 @@ projects:
       desc: '飞书 × OpenAI = 飞一般的工作体验'
       icon: 'i-icon-park-outline:new-lark'
     - name: 'Feishu Midjourney'
-      link: 'https://github.com/ConnectAI-E/Feishu-MidjourneyI'
+      link: 'https://github.com/ConnectAI-E/Feishu-Midjourney'
       desc: '飞书 x midjourney = 你真正的创意伙伴'
       icon: 'i-fa6-solid-sailboat'
     - name: 'TalkBase'
@@ -62,7 +62,7 @@ projects:
 
 
   CLI:
-    - name: 'GitOps'
+    - name: 'BotOps'
       link: 'https://github.com/connectai-e/botops'
       desc: 'Makes chatbot deployment easy'
       icon: 'i-codicon-package'
