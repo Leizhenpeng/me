@@ -10,6 +10,14 @@ projects:
       link: 'https://github.com/ConnectAI-E/GitMaya'
       desc: 'Next generation git-ops tool in chat'
       icon: 'i-carbon-logo-github saturate-0'
+    - name: '黄吉吉'
+      link: 'https://github.com/Leizhenpeng/jike-huang'
+      desc: '重新定义即刻网页版的体验'
+      icon: 'jike'
+    - name: 'Emoji Review'
+      link: 'https://github.com/Leizhenpeng/Emoji-Review'
+      desc: '用 Emoji 提高代码审阅的趣味和一致性'
+      icon: 'i-solar-emoji-funny-square-broken'
 
   Feishu Extension:
     - name: 'Feishu OpenAI'
