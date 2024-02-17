@@ -14,9 +14,9 @@ projects:
       link: 'https://github.com/Leizhenpeng/jike-huang'
       desc: '重新定义即刻网页版的体验'
       icon: 'jike'
-    - name: 'Emoji Review'
+    - name: 'Emoji Code Review'
       link: 'https://github.com/Leizhenpeng/Emoji-Review'
-      desc: '用 Emoji 提高代码审阅的趣味和一致性'
+      desc: '利用 Emoji 让代码审查变得像聊天一样有趣'
       icon: 'i-solar-emoji-funny-square-broken'
 
   Feishu Extension:
