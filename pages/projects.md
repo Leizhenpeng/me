@@ -14,10 +14,7 @@ projects:
       link: 'https://github.com/Leizhenpeng/jike-huang'
       desc: '重新定义即刻网页版的体验'
       icon: 'jike'
-    - name: 'Emoji Code Review'
-      link: 'https://github.com/Leizhenpeng/Emoji-Review'
-      desc: '利用 Emoji 让代码审查变得像聊天一样有趣'
-      icon: 'i-solar-emoji-funny-square-broken'
+
 
   Feishu Extension:
     - name: 'Feishu OpenAI'
@@ -33,6 +30,12 @@ projects:
       desc: '自然语言操作飞书多维表格'
       icon: 'i-material-symbols-table-chart'
 
+  Chrome Extensions / Userscripts:
+    - name: 'Emoji Code Review'
+      link: 'https://github.com/Leizhenpeng/Emoji-Review'
+      desc: '利用 Emoji 让代码审查变得像聊天一样有趣'
+      icon: 'i-solar-emoji-funny-square-broken'
+      
   Websites / Online Tools:
     - name: 'Midjourney Web'
       link: 'https://github.com/ConnectAI-E/MidJourney-Web'
