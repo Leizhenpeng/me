@@ -6,14 +6,15 @@ plum: true
 wrapperClass: 'text-center'
 projects:
   Current Focus:
-    - name: 'GitMaya'
-      link: 'https://github.com/ConnectAI-E/GitMaya'
-      desc: 'Next generation git-ops tool in chat'
-      icon: 'i-carbon-logo-github saturate-0'
     - name: '黄吉吉'
       link: 'https://github.com/Leizhenpeng/jike-huang'
       desc: '重新定义即刻网页版的体验'
       icon: 'jike'
+      
+    - name: 'GPTs Free'
+      link: 'https://chromewebstore.google.com/detail/gpts-free-try-gpts-withou/fanpodlenbbpmlifgkpfegccglblfnof'
+      desc: 'Use GPTs without Chatgpt Plus + Unlimited Usage'
+      icon: 'i-simple-icons-openai'
 
 
   Feishu Extension:
@@ -35,7 +36,7 @@ projects:
       link: 'https://github.com/Leizhenpeng/Emoji-Review'
       desc: '利用 Emoji 让代码审查变得像聊天一样有趣'
       icon: 'i-solar-emoji-funny-square-broken'
-      
+
   Websites / Online Tools:
     - name: 'Midjourney Web'
       link: 'https://github.com/ConnectAI-E/MidJourney-Web'
@@ -49,8 +50,12 @@ projects:
       link: 'https://openai-now.com/'
       desc: 'add -now on any GPTs URL and use it directly'
       icon: 'i-carbon-connect'
-
-
+      
+  Developer Tools:
+    - name: 'GitMaya'
+      link: 'https://github.com/ConnectAI-E/GitMaya'
+      desc: 'Next generation git-ops tool in chat'
+      icon: 'i-carbon-logo-github saturate-0'
 
 
   Starter Templates:
