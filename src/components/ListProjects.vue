@@ -39,6 +39,7 @@ function slug(name: string) {
             <Elk v-else-if="item.icon === 'elk'" class="text-4xl opacity-50"/>
             <AnthonyFu v-else-if="item.icon === 'af'" class="text-4xl opacity-50"/>
             <Jike v-else-if="item.icon === 'jike'" class="h-8 w-8 opacity-50"/>
+            <Shoot v-else-if="item.icon === 'shoot'" class="h-8 w-8 opacity-50"/>
             <div v-else class="text-3xl opacity-50" :class="item.icon || 'i-carbon-unknown'"/>
           </div>
           <div class="flex-auto">

@@ -6,15 +6,11 @@ plum: true
 wrapperClass: 'text-center'
 projects:
   Current Focus:
-    - name: '黄吉吉'
-      link: 'https://github.com/Leizhenpeng/jike-huang'
-      desc: '重新定义即刻网页版的体验'
-      icon: 'jike'
-      
-    - name: 'GPTs Free'
-      link: 'https://chromewebstore.google.com/detail/gpts-free-try-gpts-withou/fanpodlenbbpmlifgkpfegccglblfnof'
-      desc: 'Use GPTs without Chatgpt Plus + Unlimited Usage'
-      icon: 'i-simple-icons-openai'
+    - name: 'GPTs Tracker'
+      link: 'https://github.com/leizhenpeng/chrome-extension-meta'
+      desc: '一个浏览器扩展，为开发者提供全面的GPTs分析。'
+      icon: 'i-simple-icons-googlechrome'
+
 
 
   Feishu Extension:
@@ -36,6 +32,20 @@ projects:
       link: 'https://github.com/Leizhenpeng/Emoji-Review'
       desc: '利用 Emoji 让代码审查变得像聊天一样有趣'
       icon: 'i-solar-emoji-funny-square-broken'
+    - name: 'GPTs Free'
+      link: 'https://chromewebstore.google.com/detail/gpts-free-try-gpts-withou/fanpodlenbbpmlifgkpfegccglblfnof'
+      desc: 'Use GPTs without Chatgpt Plus + Unlimited Usage'
+      icon: 'i-simple-icons-openai'
+    - name: 'Chrome Extension Meta'
+      link: 'https://github.com/leizhenpeng/chrome-extension-meta'
+      desc: 'A Node.js package to fetch statistics from the Chrome Web Store'
+      icon: 'i-simple-icons-googlechrome'
+    - name: '黄吉吉'
+      link: 'https://github.com/Leizhenpeng/jike-huang'
+      desc: '重新定义即刻网页版的体验'
+      icon: 'jike'
+
+
 
   Websites / Online Tools:
     - name: 'Midjourney Web'
@@ -50,20 +60,26 @@ projects:
       link: 'https://openai-now.com/'
       desc: 'add -now on any GPTs URL and use it directly'
       icon: 'i-carbon-connect'
-      
+
   Developer Tools:
     - name: 'GitMaya'
       link: 'https://github.com/ConnectAI-E/GitMaya'
       desc: 'Next generation git-ops tool in chat'
       icon: 'i-carbon-logo-github saturate-0'
-
-
+    - name: 'BotOps'
+      link: 'https://github.com/connectai-e/botops'
+      desc: 'Makes chatbot deployment easy'
+      icon: 'i-codicon-package'
+    - name: 'GPT ChatBot Cli'
+      link: 'https://github.com/Leizhenpeng/gpt-chatBot-cli'
+      desc: 'Chat with GPT in terminal'
+      icon: 'i-simple-icons-openai'
   Starter Templates:
-    - name: 'nestjs'
+    - name: 'Nestjs'
       link: 'https://github.com/Leizhenpeng/starter-nestjs'
       desc: 'Starter template for NestJs library'
       icon: 'i-carbon-campsite'
-    - name: 'qwik'
+    - name: 'Qwik'
       link: 'https://github.com/Leizhenpeng/qwikest'
       desc: 'Opinionated Qwik Starter Template'
       icon: 'i-carbon-campsite'
@@ -77,22 +93,12 @@ projects:
       icon: 'i-carbon-face-wink'
 
 
-  CLI:
-    - name: 'BotOps'
-      link: 'https://github.com/connectai-e/botops'
-      desc: 'Makes chatbot deployment easy'
-      icon: 'i-codicon-package'
-    - name: 'GPT ChatBot Cli'
-      link: 'https://github.com/Leizhenpeng/gpt-chatBot-cli'
-      desc: 'Chat with GPT in terminal'
-      icon: 'i-simple-icons-openai'
-
   Golang Tricks:
-    - name: 'golang trick'
+    - name: 'Golang Trick'
       link: 'https://github.com/Leizhenpeng/golang-trick'
       desc: '书里没有的golang小技巧'
       icon: 'i-tabler-brand-golang'
-    - name: 'email verification'
+    - name: 'Email Verification'
       link: 'https://github.com/Leizhenpeng/go-email-verification'
       desc: 'Email verification with Gin'
       icon: 'i-tabler-brand-golang'
@@ -102,15 +108,18 @@ projects:
       link: 'https://github.com/futantan/OpenGpt'
       desc: 'Create your own ChatGPT App in seconds.'
       icon: 'i-simple-icons-openai'
-    - name: 'jike sdk'
+    - name: 'Jike Sdk'
       link: 'https://github.com/open-jike/jike-sdk'
       desc: '即刻野生 SDK'
       icon: 'i-carbon-api'
-    - name: 'v2ex polish'
+    - name: 'V2ex Polish'
       link: 'https://github.com/coolpace/V2EX_Polish'
       desc: '专业的 V2EX 浏览器扩展'
       icon: 'i-simple-icons-v2ex'
-
+    - name: 'Ext Shoot'
+      link: 'https://github.com/WtecHtec/ext-shoot'
+      desc: 'A blazingly fast extension launcher for browser'
+      icon: 'shoot'
 
   Mastergo  Extension:
     - name: 'GPT＆设计陪伴'
