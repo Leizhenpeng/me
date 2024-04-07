@@ -10,19 +10,17 @@ description: Sponsors of River Ray
 <div slide-enter slide-enter-2>
 
 <div class="prose mx-auto">
-  Sponsor me keep them sustainable and get early access to new projects.
+I lead a team backed by MiraclePlus. If interested, let's chat!
 </div>
 
 <div text-center p6>
-  <SponsorButton />
+    <a href="mailto:laolei@forkway.cn?Subject=Hello" class="btn btn--primary">Contact Me</a>
 </div>
 
 </div>
 
 <script setup>
-import Sponsors from '../public/sponsors.svg?component'
 </script>
 
-<div slide-enter slide-enter-3>
-<Sponsors h-auto max-w-250 w-full mx-auto />
-</div>
+
+
