@@ -5,20 +5,13 @@ image: https://leizhenpeng.com/og.png
 plum: true
 ---
 
-Hey, I am river, a fanatical open sourceror.
+Hey, I am river, a fanatical open sourceror
 
-Working at [<span i-simple-icons-github /> ConnectAI](https://github.com/ConnectAI-E).<br>
-Creator
-of [feishu-openai](https://github.com/ConnectAI-E/feishu-openai), [gitmaya](https://github.com/ConnectAI-E/GitMaya), [others](/projects).<br>
+Creating for creators is my passion. Currently, I'm leading the [<span i-simple-icons-github /> ConnectAI](https://github.com/ConnectAI-E) team, focusing on crafting Automated Actions for GPTs, while also juggling my studies at Zuel University.
 
-I wanna make people's lives better, and I've chosen coding as my superhero cape. Because let's be real, saving the world
-is just more fun with a keyboard and some epic code, right?
+When I'm not coding, I love to lose myself in books. You can check out what I've been reading on [Douban](https://book.douban.com/people/151095889/collect).
 
-Don't miss the show! Feast your eyes on the masterpiece list of [all my projects right here](/projects).
-
-Outside of programming, I enjoy reading. Some of my reading-share can be found
-on [Douban](https://book.douban.com/people/151095889/collect). If you happen to be in the same city I live (currently in
-wuhan), maybe we can hang out or read together.
+Feel free to drop me a [hello](mailto:laolei@forkway.cn?Subject=Hello), explore my [code](https://github.com/leizhenpeng), or engage with my [tweets](https://twitter.com/zhenpenglei).
 
 <div flex-auto />
 
