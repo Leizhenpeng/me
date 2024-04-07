@@ -14,17 +14,17 @@ image: https://leizhenpeng.com/og-chat.png
 
 我希望可以让这样的聊天的简单且开放。你可以使用下面的链接预约一个 10 分钟的视频会议和我聊聊你的疑问。时间对我而言十分宝贵，我相信你也是，希望你能提前做一些准备，对你的问题有所研究和思考。我期待与你有一个短暂但有意义的聊天！
 
-<CalCom link="antfu7/quick-chat" title="约个时间聊聊天" />
+<CalCom link="leizhenpeng/quick-chat" title="约个时间聊聊天" />
 
 ### 一对一开源咨询
 
 有些问题可能需要更长的时间来讨论。如果有需要，我可以想办法空出一个小时和你进行更加深入的讨论。这会是我的 [工作坊一对一开源咨询](https://workshop.leizhenpeng.com/zh/one-to-one/0) 的常驻版本。
 
-<CalCom link="antfu7/consult" title="预约咨询" />
+<CalCom link="leizhenpeng/consult" title="预约咨询" />
 
 如果你没有办法使用 Stripe 支付，你也可以通过 [爱发电](https://afdian.net/a/antfu) 选择「一对一开源咨询」的方案赞助后，通过下面的链接预约咨询。
 
-<CalCom link="antfu7/consult-prepaid" title="预约咨询（其他平台付款）" />
+<CalCom link="leizhenpeng/consult-prepaid" title="预约咨询（其他平台付款）" />
 
 ## Credits
 
